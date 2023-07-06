@@ -11,7 +11,7 @@ rule android_xphantom_screen_locker : Android Screen Locker
 
                 $a = "Free Followers"
                 $b = "You are Hacked By Anonymous Group"
-                $c   = "Pay 1000/Rs to Get UnlocK Key on that number +923044466333"
+                $c = "Pay 1000/Rs to Get UnlocK Key on that number +923044466333"
 
 
         condition:
