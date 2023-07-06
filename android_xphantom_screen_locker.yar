@@ -1,4 +1,4 @@
-rule android_xphantom_screen_locker : Locker
+rule android_xphantom_screen_locker : Android Screen Locker
 {
         meta:
                 author      = "y0sh1mitsu"
