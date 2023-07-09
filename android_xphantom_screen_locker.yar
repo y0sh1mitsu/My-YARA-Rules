@@ -19,5 +19,4 @@ rule android_xphantom_screen_locker : Android Screen Locker
         and $a
         and $b
         and $c
-
 }
